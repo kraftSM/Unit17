@@ -24,7 +24,7 @@ namespace Unit17
             CommonAcc1.CalculateInterest();
             Console.WriteLine(CommonAcc1.AsString());
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
